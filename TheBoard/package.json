@@ -1,0 +1,14 @@
+{
+  "name": "TheBoard",
+  "version": "0.0.0",
+  "description": "A message board based on sticky notes.",
+  "main": "server.js",
+  "author": {
+    "name": "Andr�s Hurtado",
+    "email": "andreshw@live.com.co"
+  },
+  "dependencies": {
+    "express": "~4.10.1",
+    "underscore": "~1.7.0"
+  }
+}
